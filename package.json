@@ -9,7 +9,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "braces": "^3.0.2",
     "expo": "^30.0.0",
+    "lodash": "^4.17.15",
+    "lodash.merge": "^4.6.2",
+    "mem": "^5.1.1",
     "prop-types": "^15.6.2",
     "pusher-js": "^4.3.1",
     "random-animal-name-generator": "^0.1.0",
@@ -19,6 +23,7 @@
     "react-navigation": "^2.14.0",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
-    "whatwg-fetch": "2.0.4"
+    "whatwg-fetch": "2.0.4",
+    "ws": "^7.1.2"
   }
 }
