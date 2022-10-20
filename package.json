@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "braces": "^3.0.2",
-    "expo": "^30.0.0",
+    "expo": "^46.0.16",
     "lodash": "^4.17.15",
     "lodash.merge": "^4.6.2",
     "mem": "^5.1.1",
